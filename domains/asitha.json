@@ -1,1 +1,12 @@
-
+{
+  "description": "Pair code website of asitha bot",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "Abdullasl321",
+    "email": "[email protected]"
+  },
+  "record": {
+      "URL": "https://pair-production-68b5.up.railway.app"
+  },
+  "proxied": true
+}
